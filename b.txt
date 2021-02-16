@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 b 
+=======
+b
+b1 for git pull into local repo
+>>>>>>> fc1767ef1f3d0f0a86a1be5a3d3bfee52be8681e
